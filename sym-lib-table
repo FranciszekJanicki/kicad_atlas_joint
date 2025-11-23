@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "as5600")(type "KiCad")(uri "/home/franek/Documents/kicad/AS5600-ASOT/AS5600-ASOT.kicad_sym")(options "")(descr ""))
+)
